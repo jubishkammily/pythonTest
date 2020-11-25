@@ -46,5 +46,3 @@ for i in range(mainArrLen):
 
 
 print(count)
-
-print(count)
